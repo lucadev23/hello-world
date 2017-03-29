@@ -7,7 +7,7 @@ package esempiothread;
 
 /**
  *
- * @author alegu
+ * @author lucadev23
  */
 public class ThreadEstrai extends Thread{
     private MainForm mf;
