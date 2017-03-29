@@ -29,7 +29,6 @@ public class ThreadExample extends Thread{
             {
                 e.printStackTrace();
             }
-
         }
    }
     
